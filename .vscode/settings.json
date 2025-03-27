@@ -1,0 +1,32 @@
+{
+  "files.associations": {
+    "filesystem": "cpp",
+    "xstring": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "deque": "cpp",
+    "initializer_list": "cpp",
+    "list": "cpp",
+    "queue": "cpp",
+    "random": "cpp",
+    "ranges": "cpp",
+    "regex": "cpp",
+    "span": "cpp",
+    "stack": "cpp",
+    "type_traits": "cpp",
+    "vector": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp",
+    "algorithm": "cpp",
+    "execution": "cpp",
+    "chrono": "cpp",
+    "utility": "cpp",
+    "compare": "cpp",
+    "iterator": "cpp",
+    "future": "cpp",
+    "system_error": "cpp",
+    "format": "cpp",
+    "forward_list": "cpp"
+  }
+}
